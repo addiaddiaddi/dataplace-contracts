@@ -1,0 +1,3518 @@
+{
+    "activity": {
+        "data": [
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 14637,
+                    "inactivity_seconds": 71763,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 1020,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 720
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 554,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2049
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 13459,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 18520,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 71.12895569620254,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 167,
+                        "min_hr_bpm": 53,
+                        "resting_hr_bpm": 54,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-07T00:00:00.000000+01:00",
+                    "start_time": "2023-08-06T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 94.22172619047619,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 18240,
+                    "avg_stress_level": 23,
+                    "high_stress_duration_seconds": 1800,
+                    "low_stress_duration_seconds": 7620,
+                    "max_stress_level": 98,
+                    "medium_stress_duration_seconds": 5340,
+                    "rest_stress_duration_seconds": 35940,
+                    "samples": [],
+                    "stress_duration_seconds": 14760
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 13780,
+                    "inactivity_seconds": 72620,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 480,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 518,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2013
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 9620,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 13410,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 75.105580693816,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 139,
+                        "min_hr_bpm": 52,
+                        "resting_hr_bpm": 54,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-08T00:00:00.000000+01:00",
+                    "start_time": "2023-08-07T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 95.06231003039514,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 16920,
+                    "avg_stress_level": 37,
+                    "high_stress_duration_seconds": 7500,
+                    "low_stress_duration_seconds": 9780,
+                    "max_stress_level": 99,
+                    "medium_stress_duration_seconds": 13200,
+                    "rest_stress_duration_seconds": 29940,
+                    "samples": [],
+                    "stress_duration_seconds": 30480
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 180,
+                    "inactivity_seconds": 86220,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1495
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 56,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 80,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 56,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 90,
+                        "min_hr_bpm": 50,
+                        "resting_hr_bpm": 53,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-09T00:00:00.000000+01:00",
+                    "start_time": "2023-08-08T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 97.40298507462687,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 120,
+                    "avg_stress_level": 8,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": 66,
+                    "medium_stress_duration_seconds": 60,
+                    "rest_stress_duration_seconds": 4260,
+                    "samples": [],
+                    "stress_duration_seconds": 60
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 20312,
+                    "inactivity_seconds": 66088,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 780,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 60
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 720,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2215
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 13748,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 19553,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 77.822695035461,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 130,
+                        "min_hr_bpm": 50,
+                        "resting_hr_bpm": 51,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-10T00:00:00.000000+01:00",
+                    "start_time": "2023-08-09T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 94.27906976744185,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 26940,
+                    "avg_stress_level": 33,
+                    "high_stress_duration_seconds": 5700,
+                    "low_stress_duration_seconds": 6960,
+                    "max_stress_level": 99,
+                    "medium_stress_duration_seconds": 13260,
+                    "rest_stress_duration_seconds": 27960,
+                    "samples": [],
+                    "stress_duration_seconds": 25920
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 23975,
+                    "inactivity_seconds": 62425,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 960,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 960
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 946,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2441
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 13937,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 18924,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 82.07013888888889,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 178,
+                        "min_hr_bpm": 50,
+                        "resting_hr_bpm": 52,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-11T00:00:00.000000+01:00",
+                    "start_time": "2023-08-10T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 93.18181818181819,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 25500,
+                    "avg_stress_level": 42,
+                    "high_stress_duration_seconds": 16500,
+                    "low_stress_duration_seconds": 1800,
+                    "max_stress_level": 96,
+                    "medium_stress_duration_seconds": 10920,
+                    "rest_stress_duration_seconds": 28560,
+                    "samples": [],
+                    "stress_duration_seconds": 29220
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 17375,
+                    "inactivity_seconds": 69025,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 600,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 545,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2040
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 14096,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 20023,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 72.73529411764706,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 114,
+                        "min_hr_bpm": 52,
+                        "resting_hr_bpm": 54,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-12T00:00:00.000000+01:00",
+                    "start_time": "2023-08-11T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 94.86553524804178,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 20160,
+                    "avg_stress_level": 31,
+                    "high_stress_duration_seconds": 2880,
+                    "low_stress_duration_seconds": 12420,
+                    "max_stress_level": 96,
+                    "medium_stress_duration_seconds": 9660,
+                    "rest_stress_duration_seconds": 28680,
+                    "samples": [],
+                    "stress_duration_seconds": 24960
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 19555,
+                    "inactivity_seconds": 66845,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 120,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 462,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1957
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 14887,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 21157,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 83.6140350877193,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 118,
+                        "min_hr_bpm": 58,
+                        "resting_hr_bpm": 57,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-13T00:00:00.000000+01:00",
+                    "start_time": "2023-08-12T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 91.58823529411765,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 18900,
+                    "avg_stress_level": 57,
+                    "high_stress_duration_seconds": 3120,
+                    "low_stress_duration_seconds": 7920,
+                    "max_stress_level": 91,
+                    "medium_stress_duration_seconds": 8460,
+                    "rest_stress_duration_seconds": 300,
+                    "samples": [],
+                    "stress_duration_seconds": 19500
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 15599,
+                    "inactivity_seconds": 70801,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 360,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 398,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1893
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 11726,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 16677,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 70.30878186968839,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 129,
+                        "min_hr_bpm": 51,
+                        "resting_hr_bpm": 54,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-14T00:00:00.000000+01:00",
+                    "start_time": "2023-08-13T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 95.15867158671587,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 19380,
+                    "avg_stress_level": 25,
+                    "high_stress_duration_seconds": 3900,
+                    "low_stress_duration_seconds": 6540,
+                    "max_stress_level": 96,
+                    "medium_stress_duration_seconds": 7800,
+                    "rest_stress_duration_seconds": 38400,
+                    "samples": [],
+                    "stress_duration_seconds": 18240
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 24196,
+                    "inactivity_seconds": 62204,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 671,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2166
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 12595,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 17913,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 78.47291361639824,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 125,
+                        "min_hr_bpm": 52,
+                        "resting_hr_bpm": 53,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-15T00:00:00.000000+01:00",
+                    "start_time": "2023-08-14T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 96.0673076923077,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 27840,
+                    "avg_stress_level": 41,
+                    "high_stress_duration_seconds": 12660,
+                    "low_stress_duration_seconds": 4020,
+                    "max_stress_level": 99,
+                    "medium_stress_duration_seconds": 12720,
+                    "rest_stress_duration_seconds": 28020,
+                    "samples": [],
+                    "stress_duration_seconds": 29400
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 22130,
+                    "inactivity_seconds": 64270,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 653,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2148
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 11995,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 16921,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 77.02989323843417,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 124,
+                        "min_hr_bpm": 51,
+                        "resting_hr_bpm": 53,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-16T00:00:00.000000+01:00",
+                    "start_time": "2023-08-15T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 93.23771580345286,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 24540,
+                    "avg_stress_level": 38,
+                    "high_stress_duration_seconds": 12060,
+                    "low_stress_duration_seconds": 2040,
+                    "max_stress_level": 96,
+                    "medium_stress_duration_seconds": 11760,
+                    "rest_stress_duration_seconds": 32280,
+                    "samples": [],
+                    "stress_duration_seconds": 25860
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 21530,
+                    "inactivity_seconds": 64870,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 420,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 1140
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 750,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2245
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 13848,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 18159,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 79.7298611111111,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 169,
+                        "min_hr_bpm": 50,
+                        "resting_hr_bpm": 51,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-17T00:00:00.000000+01:00",
+                    "start_time": "2023-08-16T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 95.1072705601907,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 25680,
+                    "avg_stress_level": 41,
+                    "high_stress_duration_seconds": 12120,
+                    "low_stress_duration_seconds": 4740,
+                    "max_stress_level": 93,
+                    "medium_stress_duration_seconds": 12540,
+                    "rest_stress_duration_seconds": 24840,
+                    "samples": [],
+                    "stress_duration_seconds": 29400
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 3180,
+                    "inactivity_seconds": 83220,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 78,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1573
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 817,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 1157,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 63.496753246753244,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 118,
+                        "min_hr_bpm": 52,
+                        "resting_hr_bpm": 55,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-18T00:00:00.000000+01:00",
+                    "start_time": "2023-08-17T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 95.0859375,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 5520,
+                    "avg_stress_level": 18,
+                    "high_stress_duration_seconds": 660,
+                    "low_stress_duration_seconds": 1200,
+                    "max_stress_level": 89,
+                    "medium_stress_duration_seconds": 2040,
+                    "rest_stress_duration_seconds": 27960,
+                    "samples": [],
+                    "stress_duration_seconds": 3900
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 0,
+                    "inactivity_seconds": 86400,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1495
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 0,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 0,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-19T00:00:00.000000+01:00",
+                    "start_time": "2023-08-18T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": null,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": -1,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 0,
+                    "inactivity_seconds": 86400,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1495
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 0,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 0,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-20T00:00:00.000000+01:00",
+                    "start_time": "2023-08-19T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": null,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": -1,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 0,
+                    "inactivity_seconds": 86400,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1495
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 0,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 0,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-21T00:00:00.000000+01:00",
+                    "start_time": "2023-08-20T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": null,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": -1,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 0,
+                    "inactivity_seconds": 86400,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1495
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 0,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 0,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-22T00:00:00.000000+01:00",
+                    "start_time": "2023-08-21T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": null,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": -1,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 23844,
+                    "inactivity_seconds": 62556,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 60
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 716,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2211
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 14075,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 19914,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 88.81481481481481,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 120,
+                        "min_hr_bpm": 62,
+                        "resting_hr_bpm": 57,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-23T00:00:00.000000+01:00",
+                    "start_time": "2023-08-22T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 96.88461538461539,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 24060,
+                    "avg_stress_level": 66,
+                    "high_stress_duration_seconds": 9420,
+                    "low_stress_duration_seconds": 6660,
+                    "max_stress_level": 96,
+                    "medium_stress_duration_seconds": 15180,
+                    "rest_stress_duration_seconds": 60,
+                    "samples": [],
+                    "stress_duration_seconds": 31260
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 24663,
+                    "inactivity_seconds": 61737,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 1140,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 240
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 1134,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2629
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 14617,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 20709,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 84.26779163609685,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 142,
+                        "min_hr_bpm": 51,
+                        "resting_hr_bpm": 54,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-24T00:00:00.000000+01:00",
+                    "start_time": "2023-08-23T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 92.3,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 33660,
+                    "avg_stress_level": 37,
+                    "high_stress_duration_seconds": 12120,
+                    "low_stress_duration_seconds": 1140,
+                    "max_stress_level": 97,
+                    "medium_stress_duration_seconds": 6480,
+                    "rest_stress_duration_seconds": 28200,
+                    "samples": [],
+                    "stress_duration_seconds": 19740
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 14203,
+                    "inactivity_seconds": 72197,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 2400,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 1020
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 780,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2275
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 14143,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 18696,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 91.18204488778055,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 178,
+                        "min_hr_bpm": 59,
+                        "resting_hr_bpm": 58,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-25T00:00:00.000000+01:00",
+                    "start_time": "2023-08-24T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 92.7875,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 15420,
+                    "avg_stress_level": 66,
+                    "high_stress_duration_seconds": 11160,
+                    "low_stress_duration_seconds": 6960,
+                    "max_stress_level": 97,
+                    "medium_stress_duration_seconds": 8700,
+                    "rest_stress_duration_seconds": 300,
+                    "samples": [],
+                    "stress_duration_seconds": 26820
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 21439,
+                    "inactivity_seconds": 64961,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 1140,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 1260
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 928,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 2423
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 17176,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 22637,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 78.57898399443285,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 162,
+                        "min_hr_bpm": 49,
+                        "resting_hr_bpm": 51,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-26T00:00:00.000000+01:00",
+                    "start_time": "2023-08-25T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 92.96533795493934,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 21060,
+                    "avg_stress_level": 38,
+                    "high_stress_duration_seconds": 9600,
+                    "low_stress_duration_seconds": 6780,
+                    "max_stress_level": 99,
+                    "medium_stress_duration_seconds": 11100,
+                    "rest_stress_duration_seconds": 28020,
+                    "samples": [],
+                    "stress_duration_seconds": 27480
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 360,
+                    "inactivity_seconds": 15240,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 269,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 269
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 8,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 12,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 63.25,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 97,
+                        "min_hr_bpm": 55,
+                        "resting_hr_bpm": 57,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-27T00:00:00.000000+03:00",
+                    "start_time": "2023-08-26T00:00:00.000000+03:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 93.14370078740157,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 420,
+                    "avg_stress_level": 19,
+                    "high_stress_duration_seconds": 60,
+                    "low_stress_duration_seconds": 2460,
+                    "max_stress_level": 78,
+                    "medium_stress_duration_seconds": 540,
+                    "rest_stress_duration_seconds": 10200,
+                    "samples": [],
+                    "stress_duration_seconds": 3060
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 11899,
+                    "inactivity_seconds": 74501,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 1080,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 840
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 448,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1943
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 7413,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 9907,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": 72.2126582278481,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": 179,
+                        "min_hr_bpm": 47,
+                        "resting_hr_bpm": 48,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-28T00:00:00.000000+03:00",
+                    "start_time": "2023-08-27T00:00:00.000000+03:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 94.2,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": 10680,
+                    "avg_stress_level": 32,
+                    "high_stress_duration_seconds": 5400,
+                    "low_stress_duration_seconds": 7620,
+                    "max_stress_level": 96,
+                    "medium_stress_duration_seconds": 13260,
+                    "rest_stress_duration_seconds": 27600,
+                    "samples": [],
+                    "stress_duration_seconds": 26280
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 0,
+                    "inactivity_seconds": 86400,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1495
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 0,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 0,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-29T00:00:00.000000+03:00",
+                    "start_time": "2023-08-28T00:00:00.000000+03:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": null,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": -1,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 0,
+                    "inactivity_seconds": 86400,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1495
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 0,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 0,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-30T00:00:00.000000+03:00",
+                    "start_time": "2023-08-29T00:00:00.000000+03:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": null,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": -1,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 0,
+                    "inactivity_seconds": 86400,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1495
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 0,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 0,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-31T00:00:00.000000+03:00",
+                    "start_time": "2023-08-30T00:00:00.000000+03:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": null,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": -1,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": 0,
+                    "inactivity_seconds": 86400,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": 0,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": 0
+                },
+                "calories_data": {
+                    "BMR_calories": 1495,
+                    "calorie_samples": [],
+                    "net_activity_calories": 0,
+                    "net_intake_calories": null,
+                    "total_burned_calories": 1495
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": 0,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": 0,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-09-01T00:00:00.000000+03:00",
+                    "start_time": "2023-08-31T00:00:00.000000+03:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": null,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": -1,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": null,
+                    "inactivity_seconds": null,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": null,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": null
+                },
+                "calories_data": {
+                    "BMR_calories": null,
+                    "calorie_samples": [],
+                    "net_activity_calories": null,
+                    "net_intake_calories": null,
+                    "total_burned_calories": null
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": null,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": null,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-02T00:00:00.000000+01:00",
+                    "start_time": "2023-08-01T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 93.76532769556026,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": null,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": null,
+                    "inactivity_seconds": null,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": null,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": null
+                },
+                "calories_data": {
+                    "BMR_calories": null,
+                    "calorie_samples": [],
+                    "net_activity_calories": null,
+                    "net_intake_calories": null,
+                    "total_burned_calories": null
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": null,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": null,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-03T00:00:00.000000+01:00",
+                    "start_time": "2023-08-02T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 95.264,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": null,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": null,
+                    "inactivity_seconds": null,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": null,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": null
+                },
+                "calories_data": {
+                    "BMR_calories": null,
+                    "calorie_samples": [],
+                    "net_activity_calories": null,
+                    "net_intake_calories": null,
+                    "total_burned_calories": null
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": null,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": null,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-04T00:00:00.000000+01:00",
+                    "start_time": "2023-08-03T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 94.72788203753352,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": null,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": null,
+                    "inactivity_seconds": null,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": null,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": null
+                },
+                "calories_data": {
+                    "BMR_calories": null,
+                    "calorie_samples": [],
+                    "net_activity_calories": null,
+                    "net_intake_calories": null,
+                    "total_burned_calories": null
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": null,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": null,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-05T00:00:00.000000+01:00",
+                    "start_time": "2023-08-04T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 92.69935691318328,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": null,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            },
+            {
+                "MET_data": {
+                    "MET_samples": [],
+                    "avg_level": null,
+                    "num_high_intensity_minutes": null,
+                    "num_inactive_minutes": null,
+                    "num_low_intensity_minutes": null,
+                    "num_moderate_intensity_minutes": null
+                },
+                "active_durations_data": {
+                    "activity_levels_samples": [],
+                    "activity_seconds": null,
+                    "inactivity_seconds": null,
+                    "low_intensity_seconds": null,
+                    "moderate_intensity_seconds": null,
+                    "num_continuous_inactive_periods": null,
+                    "rest_seconds": null,
+                    "standing_hours_count": null,
+                    "standing_seconds": null,
+                    "vigorous_intensity_seconds": null
+                },
+                "calories_data": {
+                    "BMR_calories": null,
+                    "calorie_samples": [],
+                    "net_activity_calories": null,
+                    "net_intake_calories": null,
+                    "total_burned_calories": null
+                },
+                "device_data": {
+                    "activation_timestamp": null,
+                    "data_provided": [],
+                    "hardware_version": null,
+                    "manufacturer": null,
+                    "name": null,
+                    "other_devices": [],
+                    "serial_number": null,
+                    "software_version": null
+                },
+                "distance_data": {
+                    "detailed": {
+                        "distance_samples": [],
+                        "elevation_samples": [],
+                        "floors_climbed_samples": [],
+                        "step_samples": []
+                    },
+                    "distance_meters": null,
+                    "elevation": {
+                        "avg_meters": null,
+                        "gain_actual_meters": null,
+                        "gain_planned_meters": null,
+                        "loss_actual_meters": null,
+                        "max_meters": null,
+                        "min_meters": null
+                    },
+                    "floors_climbed": null,
+                    "steps": null,
+                    "swimming": {
+                        "num_laps": null,
+                        "num_strokes": null,
+                        "pool_length_meters": null
+                    }
+                },
+                "heart_rate_data": {
+                    "detailed": {
+                        "hr_samples": [],
+                        "hrv_samples_rmssd": [],
+                        "hrv_samples_sdnn": []
+                    },
+                    "summary": {
+                        "avg_hr_bpm": null,
+                        "avg_hrv_rmssd": null,
+                        "avg_hrv_sdnn": null,
+                        "hr_zone_data": [],
+                        "max_hr_bpm": null,
+                        "min_hr_bpm": null,
+                        "resting_hr_bpm": null,
+                        "user_max_hr_bpm": null
+                    }
+                },
+                "metadata": {
+                    "end_time": "2023-08-06T00:00:00.000000+01:00",
+                    "start_time": "2023-08-05T00:00:00.000000+01:00",
+                    "upload_type": 0
+                },
+                "oxygen_data": {
+                    "avg_saturation_percentage": 93.8763440860215,
+                    "saturation_samples": [],
+                    "vo2_samples": [],
+                    "vo2max_ml_per_min_per_kg": null
+                },
+                "scores": {
+                    "activity": null,
+                    "recovery": null,
+                    "sleep": null
+                },
+                "strain_data": {
+                    "strain_level": null
+                },
+                "stress_data": {
+                    "activity_stress_duration_seconds": null,
+                    "avg_stress_level": null,
+                    "high_stress_duration_seconds": null,
+                    "low_stress_duration_seconds": null,
+                    "max_stress_level": null,
+                    "medium_stress_duration_seconds": null,
+                    "rest_stress_duration_seconds": null,
+                    "samples": [],
+                    "stress_duration_seconds": null
+                },
+                "tag_data": {
+                    "tags": []
+                }
+            }
+        ],
+        "status": "success",
+        "type": "daily",
+        "user": {
+            "last_webhook_update": null,
+            "provider": "GARMIN",
+            "reference_id": "HelloHarvard",
+            "scopes": "ACTIVITY_EXPORT,COURSE_IMPORT,WORKOUT_IMPORT,HEALTH_EXPORT,MCT_EXPORT",
+            "user_id": "2b1ba03a-3b7a-4eb0-a2f0-17d46dc2f341"
+        }
+    }
+}
