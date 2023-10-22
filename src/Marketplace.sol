@@ -90,6 +90,10 @@ contract Marketplace {
         usdc.transfer(orders[orderId].buyer, orders[orderId].price);
     }
 
+    function getOrders() external view returns (Order[] memory) {
+        return orders;
+    }
+
     function getUnencryptedPurchase(uint256 orderId, uint256 privateKey) external returns (bytes memory) {
         return _decryptArray(orders[orderId].encryptedData, privateKey, orders[orderId].buyerN);
     }
@@ -102,11 +106,11 @@ contract Marketplace {
         return _getKeys();
     }
 
-    function encrypt(uint256 message, uint256 publicKey, uint256 n) external returns (uint256) {
+    function encrypt(uint256 message, uint256 publicKey, uint256 n) external view returns (uint256) {
         return _encrypt(message, publicKey, n);
     }
 
-    function _encrypt(uint256 message, uint256 publicKey, uint256 n) internal returns (uint256) {
+    function _encrypt(uint256 message, uint256 publicKey, uint256 n) internal view returns (uint256) {
         // (uint256 publicKey, uint256 privateKey, uint256 n) = _getKeys();
 
         uint256 e = publicKey;
@@ -128,11 +132,11 @@ contract Marketplace {
 
     }
 
-    function encryptBytes(bytes memory message, uint256 publicKey, uint256 n) external returns (uint256[] memory) {
+    function encryptBytes(bytes memory message, uint256 publicKey, uint256 n) external view returns (uint256[] memory) {
         return _encryptBytes(message, publicKey, n);
     }
 
-    function _encryptBytes(bytes memory message, uint256 publicKey, uint256 n) internal returns (uint256[] memory) {
+    function _encryptBytes(bytes memory message, uint256 publicKey, uint256 n) internal view returns (uint256[] memory) {
         uint256[] memory response = new uint256[](message.length);
 
         for (uint i; i < message.length; i++) {
@@ -142,11 +146,11 @@ contract Marketplace {
         return response;
     }
 
-    function decrypt(uint256 encryptedText, uint256 privateKey, uint256 n) external returns (uint256) {
+    function decrypt(uint256 encryptedText, uint256 privateKey, uint256 n) external view returns (uint256) {
         return _decrypt(encryptedText, privateKey, n);
     }
 
-    function _decrypt(uint256 encryptedText, uint256 privateKey, uint256 n) internal returns (uint256) {
+    function _decrypt(uint256 encryptedText, uint256 privateKey, uint256 n) internal view returns (uint256) {
         // (uint256 publicKey, uint256 privateKey, uint256 n) = _getKeys();
 
         uint256 d = privateKey;
@@ -165,10 +169,10 @@ contract Marketplace {
         return decryptedText;
     }
 
-    function decryptArray(uint256[] memory encryptedText, uint256 privateKey, uint256 n) external returns (bytes memory) {
+    function decryptArray(uint256[] memory encryptedText, uint256 privateKey, uint256 n) external view returns (bytes memory) {
         return _decryptArray(encryptedText, privateKey, n);
     }
-    function _decryptArray(uint256[] memory encryptedText, uint256 privateKey, uint256 n) internal returns (bytes memory) {
+    function _decryptArray(uint256[] memory encryptedText, uint256 privateKey, uint256 n) internal view returns (bytes memory) {
         bytes memory response = new bytes(encryptedText.length);
 
         for (uint i; i < encryptedText.length; i++) {
@@ -241,7 +245,7 @@ contract Marketplace {
         // console.log("e, phi inverse", e, phi);
         uint256 d = multiplicative_inverse(e, phi);
         // console.log("inverse", d);
-        // console.log("keys", e, d, n);
+        console.log("keys", e, d, n);
         // revert("bonk");
         return (e, d, n);
     }
@@ -251,7 +255,7 @@ contract Marketplace {
         return uint256(keccak256(abi.encodePacked(block.timestamp, msg.sender, randomNonce))) % (max - min) + min;
     }
 
-    function _recursiveExponent(uint256 a, uint256 b, uint256 c) internal returns (uint256) {
+    function _recursiveExponent(uint256 a, uint256 b, uint256 c) internal view returns (uint256) {
         // console.log("recursiveexponent",a,b,c);
 
 
@@ -271,15 +275,15 @@ contract Marketplace {
         }   
     }
 
-    function recursiveExponent(uint256 a ,uint256 b, uint256 c) external returns (uint256) {
+    function recursiveExponent(uint256 a ,uint256 b, uint256 c) external view returns (uint256) {
         return _recursiveExponent(a,b,c);
     }
 
-    function isTerraSignature(bytes memory data, uint8 v, bytes32 r, bytes32 s) external returns (bool) {
+    function isTerraSignature(bytes memory data, uint8 v, bytes32 r, bytes32 s) external view returns (bool) {
         return _isTerraSignature(data, v, r, s);
     }
 
-    function _isTerraSignature(bytes memory data, uint8 v, bytes32 r, bytes32 s) internal returns (bool) {
+    function _isTerraSignature(bytes memory data, uint8 v, bytes32 r, bytes32 s) internal view returns (bool) {
         bytes32 messageHash = keccak256(data);
         address signer = ecrecover(messageHash, v, r, s);
 
